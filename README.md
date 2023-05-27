@@ -4,7 +4,7 @@
 
 I'm a computer science student & MERN stack developer
 
-👩‍💻 I'm currently working on [stadium-go-server](https://github.com/ibrahimhabibeg/stadium-go-server)
+👩‍💻 I'm currently working on **[stadium-go-server](https://github.com/ibrahimhabibeg/stadium-go-server)**
 
 🧠 I'm currently learning... **Database Programming, Design Patterns, and DevOps.**
 
@@ -31,6 +31,9 @@ I'm a computer science student & MERN stack developer
 </a>
 <a href="https://leetcode.com/ibrahim_m_habib/" target="_blank">
 <img src=https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.hackerrank.com/ibrahimhabibeg?hr_r=1" target="_blank">
+<img src=https://img.shields.io/badge/-Hackerrank-0c141f?style=for-the-badge&logo=HackerRank&logoColor=00eb62 alt=twitter style="margin-bottom: 5px;" />
 </a>
 </div>  
 ---
