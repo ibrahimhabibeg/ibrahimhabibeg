@@ -1,39 +1,43 @@
 # Hi, I'm Ibrahim Habib! 👋
-## 🚀 About Me
 
-I'm a computer science student
+## About me 🧑‍💻
 
-👩‍💻 I'm currently working on **[stadium-go-server](https://github.com/ibrahimhabibeg/stadium-go-server)** and **[stadium-go-client](https://github.com/ibrahimhabibeg/stadium-go-client)**
-
-🧠 I'm currently learning... **Software Architecture, Design Patterns, and DevOps.**
-
-📫 How to reach me... **ibrahimhabib.eg@gmail.com**
-
-## 💻 Tech Stack
-### Programming Languages: 
- [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/) [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=oracle&logoColor=white)](https://www.java.com/en/) [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) 
-### Backend: 
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en) [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/) [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)  [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-### Frontend:
- [![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/) [![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/) [![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactnative.dev/) [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimhabibeg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Results-oriented software engineering student 🚀 with a strong foundation in backend development, AI 🤖, machine learning 🧠, and deep learning 🌌. Possessing a keen ability to solve complex problems 🧩 and a passion for building innovative solutions💡. Eager to learn 📚, grow 🌱, and make a meaningful impact to the world🌎. 
 
 
-## 🔗 Connect with me
+## Top Projects 🛠️
 
-<div align="center">
-<a href="https://www.linkedin.com/in/ibrahim-habib-a2948b286/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://codeforces.com/profile/IbrahimHabib" target="_blank">
-<img src=https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://leetcode.com/ibrahim_m_habib/" target="_blank">
-<img src=https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.hackerrank.com/ibrahimhabibeg?hr_r=1" target="_blank">
-<img src=https://img.shields.io/badge/-Hackerrank-0c141f?style=for-the-badge&logo=HackerRank&logoColor=00eb62 alt=twitter style="margin-bottom: 5px;" />
-</a>
-</div> 
+- [🧠 Dahih Al-Dofaa](https://github.com/ibrahimhabibeg/Dahih-Al-Dofaa): Personalized AI assistant for university students who answers from the students' slides, textbooks, and notes.
+- [🤝 Wazzali](https://github.com/ibrahimhabibeg/wazzali): Effortless project role distribution for university students' teams.
+- [🏟️ Stadium Go](https://github.com/ibrahimhabibeg/stadium-go-client): Mobile app for booking stadiums. Built with react-native.
+- [🏫 Aide](https://github.com/ibrahimhabibeg/aide): AI assistant for high school students.
 
+## Top Certificates
+
+- [🤖 IBM AI Engineering](https://coursera.org/share/232d4f4a582d284568bdc3a92b43272a)
+- [💼 Google Project Management](https://coursera.org/share/a727610d8656b0297203b4ba3f343a5e)
+- [☁️ Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/IbrahimHabib-9492/71AFAFC98A14B42D?sharingId=1B280D3FD8B64E92)
+- [🏗️ Software Design and Architecture by University of Alberta](https://coursera.org/share/96715be7a01aa95a316593806462f487)
+- [📊 Data Scientist: Machine Learning Specialist by Codecademy](https://www.codecademy.com/profiles/IbrahimHabib/certificates/8e9e59de3f924b33ad2371faf667129b)
+- [💻 Full-Stack Engineer by Codecademy](https://www.codecademy.com/profiles/IbrahimHabib/certificates/ffd0f42cce1a44e9a0108b365047a0a6)
+- [🤝 People and Soft Skills for Professional and Personal Success by IBM](https://coursera.org/share/c22663ff1675979fbb2392fef6f2038b)
+
+## Github Stats
+
+![Trophies](https://github-readme-stats.vercel.app/api?username=ibrahimhabibeg&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimhabibeg&theme=dark&hide_border=false)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimhabibeg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ibrahimhabibeg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2)](https://linkedin.com/in/ibrahimhabibeg)
+[![Kaggle](https://img.shields.io/badge/kaggle-logo?style=for-the-badge&logo=kaggle&logoColor=white&color=20BEFF)](https://www.kaggle.com/ibrahimhabibeg/)
+[![Email](https://img.shields.io/badge/email-logo?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335)](mailto:ibrahimhabib.eg@gmail.com)
+[![Codeforces](https://img.shields.io/badge/codeforces-logo?style=for-the-badge&logo=codeforces&logoColor=white&color=1F8ACB)](https://codeforces.com/profile/IbrahimHabib)
+[![Leetcode](https://img.shields.io/badge/leetcode-logo?style=for-the-badge&logo=leetcode&logoColor=white&color=C37810)](https://leetcode.com/ibrahim_m_habib/)
+[![Coursera](https://img.shields.io/badge/coursera-logo?style=for-the-badge&logo=coursera&logoColor=white&color=0056D2)](https://www.coursera.org/learner/ibrahimhabibeg)
+[![Codecademy](https://img.shields.io/badge/codecademy-logo?style=for-the-badge&logo=codecademy&logoColor=white&color=1F4056)](https://www.codecademy.com/profiles/IbrahimHabib)
