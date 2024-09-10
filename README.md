@@ -2,8 +2,7 @@
 
 ## About me 🧑‍💻
 
-Results-oriented software engineering student 🚀 with a strong foundation in backend development, AI 🤖, machine learning 🧠, and deep learning 🌌. Possessing a keen ability to solve complex problems 🧩 and a passion for building innovative solutions💡. Eager to learn 📚, grow 🌱, and make a meaningful impact to the world🌎. 
-
+Results-oriented software engineering student 🚀 with a strong foundation in backend development, AI 🤖, machine learning 🧠, and deep learning 🌌. Possessing a keen ability to solve complex problems 🧩 and a passion for building innovative solutions💡. Eager to learn 📚, grow 🌱, and make a meaningful impact to the world🌎.
 
 ## Top Projects 🛠️
 
@@ -27,8 +26,6 @@ Results-oriented software engineering student 🚀 with a strong foundation in b
 ![Trophies](https://github-readme-stats.vercel.app/api?username=ibrahimhabibeg&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimhabibeg&theme=dark&hide_border=false)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimhabibeg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ibrahimhabibeg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
